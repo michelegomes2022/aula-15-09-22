@@ -1,0 +1,66 @@
+h1{ color: blue; }
+#total{
+     width: 960px; 
+    height: auto;
+     margin: auto;
+     }/*centraliza a divisão na pagina*/
+#cabecalho{
+     width: 960px;
+     height: 100px;
+     background-color: aqua; 
+    }
+    #logotipo{
+        float: right;
+       }
+       #menu{ 
+        float: right;
+        margin: top 27px;
+       }
+       #menu a{
+           color:#660000;
+           text-decoration: none;
+           margin-left: 50px;
+       }
+        #menu a:hover{
+
+          
+          text-decoration:underline;
+        }
+        #conteudo{
+          width: 960px;
+          height: 400px;
+          float: left;
+          background-color: aqua;
+        }
+       
+     #rodape{
+          width: 960px;
+          height: auto;
+          float: left;
+          background-color:blueviolet;
+          text-align: center;
+          font-size: 18px;
+          font-family:Georgia, 'Times New Roman', Times, serif ;
+          color: #660000;
+          margin-top: 30px;
+          border-top:blue ;
+        }
+
+       #conteudoquemsomos1{
+          width: 600px;
+          height: 400px;
+          float:left;
+          background-color:blue;
+       } 
+       #conteudoquemsomos2{
+          width: 360px;
+          height: 200px;
+          float: right;
+          background-color: black;
+       } 
+       #conteudoquemsomos3{
+          width: 360px;
+          height: 200px;
+          float: right;
+          background-color:aqua;
+       } 
